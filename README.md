@@ -15,7 +15,7 @@
 ---
 
 <!--START_SECTION:activity-->
-
+1. 🔒 Closed issue [#6](https://github.com/remotecodehub/Ayllu/issues/6) in [remotecodehub/Ayllu](https://github.com/remotecodehub/Ayllu)
 <!--END_SECTION:activity-->
 
 ---
