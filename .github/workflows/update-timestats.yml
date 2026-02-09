@@ -1,8 +1,9 @@
 name: wakatime-stats
 
 on:
+  workflow_dispatch: 
   schedule:
-    - cron: '0 12 * * *'
+    - cron: '20 16 * * *'
 
 jobs:
   update-readme:
@@ -16,7 +17,7 @@ jobs:
           COMMIT_USERNAME: "weslleymurdock"
           COMMIT_EMAIL: "weslleyluiz@outlook.com.br "
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SHOW_OS: "False"
           SHOW_PROJECTS: "True"
           SHOW_UPDATED_DATE: "True"
