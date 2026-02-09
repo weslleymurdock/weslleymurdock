@@ -45,46 +45,15 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ``` 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.95%20million%20lines%20of%20code-blue?style=flat)
+```txt
+From: 09 February 2026 - To: 09 February 2026
 
-**🐱 My GitHub Data** 
+Total Time: 0 secs
 
-> 📦 195.2 kB Used in GitHub's Storage 
- > 
-> 🏆 99 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 40 Public Repositories 
- > 
-> 🔑 9 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                639 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-🌆 Daytime                887 commits         ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
-🌃 Evening                1157 commits        ████████░░░░░░░░░░░░░░░░░   30.45 % 
-🌙 Night                  1117 commits        ███████░░░░░░░░░░░░░░░░░░   29.39 % 
+No activity tracked
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 09/02/2026 08:20:37 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
