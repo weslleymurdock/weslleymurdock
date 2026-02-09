@@ -1,5 +1,5 @@
 ﻿
-# Hello, I'm Weslley - aka [Murdock](https://instagram.com/weslleymurdock)
+# Hello, I'm Weslley - aka [Murdock](https://instagram.com/weslleymurdock)  
 
 ## I'm a Full Stack Developer III
 
@@ -10,15 +10,17 @@
 
 ---
 
-[weslleymurdock](https://socialify.git.ci/weslleymurdock/weslleymurdock/image?font=Source%20Code%20Pro&forks=0&issues=0&language=1&name=1&owner=1&pattern=Plus&pulls=0&stargazers=0&theme=Dark)
-
----
+<p
+ align="center">
+  <img
+  src="https://socialify.git.ci/weslleymurdock/weslleymurdock/image?font=Source%20Code%20Pro&forks=0&issues=0&language=1&name=1&owner=1&pattern=Plus&pulls=0&stargazers=0&theme=Dark"
+  alt="weslleymurdock" width="700" height="300" >
+ </img>
+</p>
 
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
-
----
 
 ```yaml
 name: Weslley Luiz
@@ -38,31 +40,26 @@ technical_background: ["Automated Tests", "Automated Tasks", "Telephony over int
 currently_learning: ["Web3", "React", "Vue"]
 will_learn: ["Blockchain (backend)"]
 hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
-```
+``` 
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 09 February 2026 - To: 09 February 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
 
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
-
+ 
 <!--END_SECTION:waka-simple-->
 
 ---
 
 ### Contact with me 📝
 
-[![Github Pages | Resume](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://weslleymurdock.github.io/)
+[![Github Pages | Resume](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://weslleymurdock.github.io/) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesll)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/weslleymurdock)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://instagram.com/weslleymurdock)
 
+<br />
+
 ---
+
