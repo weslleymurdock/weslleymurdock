@@ -45,49 +45,19 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ``` 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%208%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.06%20million%20lines%20of%20code-blue?style=flat)
+```txt
+From: 09 February 2026 - To: 14 February 2026
 
-**🐱 My GitHub Data** 
+Total Time: 10 hrs 13 mins
 
-> 📦 195.2 kB Used in GitHub's Storage 
- > 
-> 🏆 104 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 41 Public Repositories 
- > 
-> 🔑 9 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                639 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-🌆 Daytime                898 commits         ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
-🌃 Evening                1225 commits        ████████░░░░░░░░░░░░░░░░░   31.19 % 
-🌙 Night                  1166 commits        ███████░░░░░░░░░░░░░░░░░░   29.68 % 
+C#           8 hrs 9 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀   79.86 %
+Binary       1 hr 52 mins    ⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.41 %
+XML          5 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.96 %
+Bash         4 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.70 %
+Other        0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.05 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-C#                       1 hr 20 mins        █████████████████████░░░░   82.58 % 
-Binary                   16 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-
-🐱‍💻 Projects: 
-RemotePhoneNumberValidato1 hr 16 mins        ████████████████████░░░░░   78.16 % 
-RemotePNV                21 mins             █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
-```
-
-
- Last Updated on 13/02/2026 17:11:59 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
