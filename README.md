@@ -21,7 +21,7 @@
 [![wakatime](https://wakatime.com/badge/user/9def8702-3d6c-43f9-8338-45466b0dee1c.svg)](https://wakatime.com/@9def8702-3d6c-43f9-8338-45466b0dee1c)
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#6](https://github.com/remotecodehub/Ayllu/issues/6) in [remotecodehub/Ayllu](https://github.com/remotecodehub/Ayllu)
+1. 🎉 Merged PR [#56](https://github.com/VoiSmart/pjsip-android-builder/pull/56) in [VoiSmart/pjsip-android-builder](https://github.com/VoiSmart/pjsip-android-builder)
 <!--END_SECTION:activity-->
 
 ```yaml
