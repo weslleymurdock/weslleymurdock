@@ -45,19 +45,50 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ``` 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2056%20mins-blue?style=flat)
 
-```txt
-From: 09 February 2026 - To: 04 March 2026
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.10%20million%20lines%20of%20code-blue?style=flat)
 
-Total Time: 29 hrs 56 mins
+**🐱 My GitHub Data** 
 
-C#            19 hrs 14 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   64.24 %
-Binary        5 hrs 5 mins          ⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.00 %
-XAML          2 hrs 56 mins         ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.84 %
-XML           1 hr 44 mins          ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.83 %
-Other         29 mins               ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.62 %
+> 📦 195.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 118 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 41 Public Repositories 
+ > 
+> 🔑 9 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                641 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+🌆 Daytime                902 commits         ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
+🌃 Evening                1269 commits        ████████░░░░░░░░░░░░░░░░░   31.67 % 
+🌙 Night                  1195 commits        ███████░░░░░░░░░░░░░░░░░░   29.82 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+Other                    11 mins             ████████████████░░░░░░░░░   64.51 % 
+Binary                   6 mins              █████████░░░░░░░░░░░░░░░░   35.42 % 
+C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+
+🐱‍💻 Projects: 
+Unknown Project          11 mins             ████████████████░░░░░░░░░   64.51 % 
+RemotePNV                4 mins              ███████░░░░░░░░░░░░░░░░░░   28.25 % 
+RemotePhoneNumberValidato1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+```
+
+
+ Last Updated on 04/03/2026 17:07:27 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
