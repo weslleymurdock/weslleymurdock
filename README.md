@@ -45,19 +45,52 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ``` 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2058%20mins-blue?style=flat)
 
-```txt
-From: 09 February 2026 - To: 07 March 2026
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.09%20million%20lines%20of%20code-blue?style=flat)
 
-Total Time: 31 hrs 44 mins
+**🐱 My GitHub Data** 
 
-C#            19 hrs 14 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀   60.64 %
-Binary        5 hrs 23 mins         ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.98 %
-XAML          2 hrs 56 mins         ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.28 %
-Other         1 hr 57 mins          ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.15 %
-XML           1 hr 45 mins          ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.56 %
+> 📦 195.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 131 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 43 Public Repositories 
+ > 
+> 🔑 9 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                647 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+🌆 Daytime                903 commits         ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
+🌃 Evening                1280 commits        ████████░░░░░░░░░░░░░░░░░   31.84 % 
+🌙 Night                  1190 commits        ███████░░░░░░░░░░░░░░░░░░   29.60 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+Other                    1 hr 40 mins        ████████████████████░░░░░   79.26 % 
+Binary                   24 mins             █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+
+🐱‍💻 Projects: 
+Unknown Project          1 hr 40 mins        ████████████████████░░░░░   79.26 % 
+RemotePhoneNumberValidato12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+RemotePNV                12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+src                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+```
+
+
+ Last Updated on 07/03/2026 16:48:09 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
