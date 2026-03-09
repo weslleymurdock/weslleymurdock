@@ -45,19 +45,54 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ``` 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2054%20mins-blue?style=flat)
 
-```txt
-From: 09 February 2026 - To: 09 March 2026
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.10%20million%20lines%20of%20code-blue?style=flat)
 
-Total Time: 41 hrs 38 mins
+**🐱 My GitHub Data** 
 
-C#            19 hrs 31 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   46.91 %
-Binary        5 hrs 23 mins         ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.94 %
-YAML          3 hrs 32 mins         ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.51 %
-XAML          3 hrs 21 mins         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.05 %
-XML           2 hrs 33 mins         ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.15 %
+> 📦 195.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 158 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 44 Public Repositories 
+ > 
+> 🔑 9 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                648 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+🌆 Daytime                913 commits         ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
+🌃 Evening                1291 commits        ████████░░░░░░░░░░░░░░░░░   31.89 % 
+🌙 Night                  1196 commits        ███████░░░░░░░░░░░░░░░░░░   29.55 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+YAML                     3 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   29.80 % 
+Markdown                 2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
+Other                    2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+PowerShell               1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+XML                      48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+
+🐱‍💻 Projects: 
+FreePBX-Swarm            5 hrs 33 mins       ████████████░░░░░░░░░░░░░   47.50 % 
+libpjsua2maui            1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Unknown Project          1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+MAUIPhone                47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+MPPhone                  31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+```
+
+
+ Last Updated on 09/03/2026 17:14:48 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
