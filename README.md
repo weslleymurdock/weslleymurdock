@@ -45,54 +45,19 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ``` 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%201%20min-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.09%20million%20lines%20of%20code-blue?style=flat)
+```txt
+From: 09 February 2026 - To: 11 March 2026
 
-**🐱 My GitHub Data** 
+Total Time: 54 hrs 19 mins
 
-> 📦 195.7 kB Used in GitHub's Storage 
- > 
-> 🏆 161 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 44 Public Repositories 
- > 
-> 🔑 9 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                648 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
-🌆 Daytime                915 commits         ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
-🌃 Evening                1291 commits        ████████░░░░░░░░░░░░░░░░░   31.90 % 
-🌙 Night                  1193 commits        ███████░░░░░░░░░░░░░░░░░░   29.48 % 
+C#            27 hrs 17 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.23 %
+Binary        6 hrs 58 mins         ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.84 %
+YAML          3 hrs 51 mins         ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.11 %
+XML           3 hrs 43 mins         ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.84 %
+XAML          3 hrs 28 mins         ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.39 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-C#                       4 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
-YAML                     3 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
-Markdown                 2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Other                    2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-XML                      1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-
-🐱‍💻 Projects: 
-FreePBX-Swarm            5 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   32.33 % 
-Unknown Project          2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-RemotePBX                2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Mediafor                 2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-libpjsua2maui            1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-```
-
-
- Last Updated on 10/03/2026 17:12:28 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
