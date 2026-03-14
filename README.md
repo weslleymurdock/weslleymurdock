@@ -45,54 +45,19 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ``` 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%2018%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.08%20million%20lines%20of%20code-blue?style=flat)
+```txt
+From: 09 February 2026 - To: 14 March 2026
 
-**🐱 My GitHub Data** 
+Total Time: 90 hrs 6 mins
 
-> 📦 195.7 kB Used in GitHub's Storage 
- > 
-> 🏆 168 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 45 Public Repositories 
- > 
-> 🔑 9 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                651 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-🌆 Daytime                915 commits         ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
-🌃 Evening                1291 commits        ████████░░░░░░░░░░░░░░░░░   31.90 % 
-🌙 Night                  1190 commits        ███████░░░░░░░░░░░░░░░░░░   29.40 % 
+C#            51 hrs 17 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   56.92 %
+Binary        13 hrs 37 mins        ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.13 %
+XML           6 hrs 1 min           ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.69 %
+Other         4 hrs 37 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.13 %
+YAML          4 hrs 22 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.86 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-C#                       18 hrs 16 mins      ███████████░░░░░░░░░░░░░░   44.51 % 
-Binary                   5 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-YAML                     4 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Other                    3 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-XML                      3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-
-🐱‍💻 Projects: 
-RemoteSIPValidator       20 hrs 46 mins      █████████████░░░░░░░░░░░░   50.59 % 
-FreePBX-Swarm            6 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Unknown Project          3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-RemotePBX                2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-Mediafor                 2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-```
-
-
- Last Updated on 13/03/2026 17:02:36 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
