@@ -45,19 +45,54 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ``` 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%2056%20mins-blue?style=flat)
 
-```txt
-From: 09 February 2026 - To: 20 March 2026
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.12%20million%20lines%20of%20code-blue?style=flat)
 
-Total Time: 119 hrs 10 mins
+**🐱 My GitHub Data** 
 
-C#                                 68 hrs 4 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   57.11 %
-Binary                             14 hrs 36 mins        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.26 %
-XML                                8 hrs 7 mins          ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.82 %
-Other                              6 hrs 45 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.66 %
-YAML                               5 hrs 50 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.90 %
+> 📦 195.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 173 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 46 Public Repositories 
+ > 
+> 🔑 9 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                651 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+🌆 Daytime                915 commits         ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
+🌃 Evening                1291 commits        ████████░░░░░░░░░░░░░░░░░   31.92 % 
+🌙 Night                  1188 commits        ███████░░░░░░░░░░░░░░░░░░   29.37 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+C#                       30 hrs 33 mins      ████████████████░░░░░░░░░   63.39 % 
+Binary                   4 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+XML                      3 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Other                    2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Docker                   2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+
+🐱‍💻 Projects: 
+RemoteSIPValidator       34 hrs 9 mins       ██████████████████░░░░░░░   70.85 % 
+Smartstore               11 hrs 19 mins      ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
+Unknown Project          2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+src                      30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+RemoteCodeHub            7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+```
+
+
+ Last Updated on 20/03/2026 17:07:03 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
