@@ -45,54 +45,19 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ``` 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-156%20hrs%2027%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.12%20million%20lines%20of%20code-blue?style=flat)
+```txt
+From: 09 February 2026 - To: 22 March 2026
 
-**🐱 My GitHub Data** 
+Total Time: 154 hrs 40 mins
 
-> 📦 195.8 kB Used in GitHub's Storage 
- > 
-> 🏆 175 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 46 Public Repositories 
- > 
-> 🔑 9 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                651 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-🌆 Daytime                915 commits         ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
-🌃 Evening                1291 commits        ████████░░░░░░░░░░░░░░░░░   31.92 % 
-🌙 Night                  1188 commits        ███████░░░░░░░░░░░░░░░░░░   29.37 % 
+C#                                 85 hrs 33 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   55.32 %
+Binary                             14 hrs 36 mins        ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.45 %
+XML                                9 hrs                 ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.82 %
+Other                              6 hrs 54 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.47 %
+YAML                               6 hrs 12 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.02 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-C#                       30 hrs 34 mins      ██████████████░░░░░░░░░░░   54.23 % 
-SCSS                     5 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
-Razor                    4 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-CSHTML                   3 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-XML                      2 hrs 47 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-
-🐱‍💻 Projects: 
-Smartstore               31 hrs 59 mins      ██████████████░░░░░░░░░░░   56.71 % 
-RemoteSIPValidator       8 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-remote-code-hub          8 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-RemoteCodeHub            4 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-mp-test                  1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-```
-
-
- Last Updated on 22/03/2026 16:53:00 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
