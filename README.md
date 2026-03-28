@@ -45,19 +45,54 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ``` 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-157%20hrs%2028%20mins-blue?style=flat)
 
-```txt
-From: 09 February 2026 - To: 28 March 2026
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.84%20million%20lines%20of%20code-blue?style=flat)
 
-Total Time: 157 hrs 28 mins
+**🐱 My GitHub Data** 
 
-C#                                 87 hrs 16 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   55.42 %
-Binary                             14 hrs 39 mins        ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.31 %
-XML                                9 hrs                 ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.72 %
-Other                              7 hrs 4 mins          ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.50 %
-YAML                               6 hrs 14 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.96 %
+> 📦 179.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 179 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 46 Public Repositories 
+ > 
+> 🔑 9 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                483 commits         █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+🌆 Daytime                567 commits         ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
+🌃 Evening                677 commits         ███████░░░░░░░░░░░░░░░░░░   26.56 % 
+🌙 Night                  822 commits         ████████░░░░░░░░░░░░░░░░░   32.25 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+C#                       15 hrs 23 mins      ███████████████████░░░░░░   77.53 % 
+CSHTML                   1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+XML                      51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+YAML                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+
+🐱‍💻 Projects: 
+Smartstore               17 hrs 40 mins      ██████████████████████░░░   89.00 % 
+mp-test                  1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+weslleymurdock.github.io 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+RemoteSIPValidator       14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+libpjsua2maui            14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+```
+
+
+ Last Updated on 28/03/2026 16:55:05 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
