@@ -45,19 +45,53 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ``` 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-157%20hrs%2028%20mins-blue?style=flat)
 
-```txt
-From: 09 February 2026 - To: 30 March 2026
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.84%20million%20lines%20of%20code-blue?style=flat)
 
-Total Time: 157 hrs 28 mins
+**🐱 My GitHub Data** 
 
-C#                                 87 hrs 16 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   55.42 %
-Binary                             14 hrs 39 mins        ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.31 %
-XML                                9 hrs                 ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.72 %
-Other                              7 hrs 4 mins          ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.50 %
-YAML                               6 hrs 14 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.96 %
+> 📦 179.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 181 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 46 Public Repositories 
+ > 
+> 🔑 9 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                483 commits         █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+🌆 Daytime                567 commits         ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
+🌃 Evening                677 commits         ███████░░░░░░░░░░░░░░░░░░   26.56 % 
+🌙 Night                  822 commits         ████████░░░░░░░░░░░░░░░░░   32.25 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+HTML                     14 mins             ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
+PowerShell               14 mins             ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
+C#                       13 mins             ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
+Other                    9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Razor                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+
+🐱‍💻 Projects: 
+weslleymurdock.github.io 22 mins             █████████░░░░░░░░░░░░░░░░   36.47 % 
+RemoteSIPValidator       14 mins             ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
+libpjsua2maui            14 mins             ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
+Unknown Project          9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+```
+
+
+ Last Updated on 31/03/2026 17:19:16 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
