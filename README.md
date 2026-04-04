@@ -45,19 +45,52 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ``` 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-176%20hrs%2042%20mins-blue?style=flat)
 
-```txt
-From: 09 February 2026 - To: 03 April 2026
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.84%20million%20lines%20of%20code-blue?style=flat)
 
-Total Time: 163 hrs 37 mins
+**🐱 My GitHub Data** 
 
-C#                                 88 hrs 9 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   53.88 %
-Binary                             15 hrs 26 mins        ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.43 %
-XML                                9 hrs 12 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.63 %
-Razor                              8 hrs 12 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.01 %
-Other                              7 hrs 17 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.45 %
+> 📦 179.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 183 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 46 Public Repositories 
+ > 
+> 🔑 9 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                483 commits         █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+🌆 Daytime                567 commits         ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
+🌃 Evening                677 commits         ███████░░░░░░░░░░░░░░░░░░   26.56 % 
+🌙 Night                  822 commits         ████████░░░░░░░░░░░░░░░░░   32.25 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+Razor                    8 hrs 1 min         █████████████░░░░░░░░░░░░   50.97 % 
+Binary                   2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+JSON                     1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+C#                       1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+CSS                      1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+
+🐱‍💻 Projects: 
+weslleymurdock.github.io 15 hrs 38 mins      █████████████████████████   99.48 % 
+CrossPay                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+```
+
+
+ Last Updated on 04/04/2026 16:57:12 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
