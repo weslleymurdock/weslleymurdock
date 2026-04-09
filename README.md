@@ -45,19 +45,54 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ``` 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-178%20hrs%2057%20mins-blue?style=flat)
 
-```txt
-From: 09 February 2026 - To: 08 April 2026
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.97%20million%20lines%20of%20code-blue?style=flat)
 
-Total Time: 178 hrs 57 mins
+**🐱 My GitHub Data** 
 
-C#                                 89 hrs 14 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   49.87 %
-Binary                             17 hrs 1 min          ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.52 %
-Razor                              16 hrs 9 mins         ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.03 %
-XML                                9 hrs 45 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.45 %
-Other                              7 hrs 34 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.23 %
+> 📦 179.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 190 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 46 Public Repositories 
+ > 
+> 🔑 9 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                483 commits         █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+🌆 Daytime                572 commits         ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
+🌃 Evening                679 commits         ███████░░░░░░░░░░░░░░░░░░   26.54 % 
+🌙 Night                  824 commits         ████████░░░░░░░░░░░░░░░░░   32.21 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+Razor                    10 hrs 50 mins      █████████████░░░░░░░░░░░░   50.52 % 
+Binary                   2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+CSS                      2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+C#                       1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+JSON                     1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+
+🐱‍💻 Projects: 
+weslleymurdock.github.io 20 hrs 26 mins      ████████████████████████░   95.16 % 
+rc-bt-adapter            29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Unknown Project          17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+src                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+rc-bt-usb                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+```
+
+
+ Last Updated on 09/04/2026 17:36:20 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
