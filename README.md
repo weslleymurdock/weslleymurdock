@@ -45,19 +45,52 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ``` 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-182%20hrs%2042%20mins-blue?style=flat)
 
-```txt
-From: 09 February 2026 - To: 17 April 2026
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.17%20million%20lines%20of%20code-blue?style=flat)
 
-Total Time: 182 hrs 42 mins
+**🐱 My GitHub Data** 
 
-C#                                 89 hrs 14 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   48.84 %
-Binary                             17 hrs 1 min          ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.32 %
-Razor                              16 hrs 9 mins         ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.84 %
-XML                                9 hrs 50 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.39 %
-Other                              8 hrs 28 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.64 %
+> 📦 179.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 197 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 46 Public Repositories 
+ > 
+> 🔑 9 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                597 commits         █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
+🌆 Daytime                723 commits         ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
+🌃 Evening                801 commits         ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
+🌙 Night                  963 commits         ████████░░░░░░░░░░░░░░░░░   31.23 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+Docker                   1 hr 34 mins        ██████████░░░░░░░░░░░░░░░   41.86 % 
+Other                    54 mins             ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
+PowerShell               44 mins             █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+YAML                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+
+🐱‍💻 Projects: 
+libpjsua2maui            2 hrs 44 mins       ██████████████████░░░░░░░   73.17 % 
+Unknown Project          54 mins             ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
+src                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+```
+
+
+ Last Updated on 17/04/2026 17:11:11 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
