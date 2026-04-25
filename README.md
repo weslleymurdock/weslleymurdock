@@ -45,54 +45,19 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ``` 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-218%20hrs%2033%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.30%20million%20lines%20of%20code-blue?style=flat)
+```txt
+From: 09 February 2026 - To: 25 April 2026
 
-**🐱 My GitHub Data** 
+Total Time: 224 hrs 6 mins
 
-> 📦 181.1 kB Used in GitHub's Storage 
- > 
-> 🏆 238 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 47 Public Repositories 
- > 
-> 🔑 9 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                598 commits         █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
-🌆 Daytime                725 commits         ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
-🌃 Evening                817 commits         ███████░░░░░░░░░░░░░░░░░░   26.16 % 
-🌙 Night                  983 commits         ████████░░░░░░░░░░░░░░░░░   31.48 % 
+C#                                 118 hrs 14 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   52.76 %
+Binary                             17 hrs 55 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.00 %
+Razor                              16 hrs 11 mins        ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.23 %
+XML                                10 hrs 49 mins        ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.83 %
+Other                              10 hrs 34 mins        ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.72 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-C#                       23 hrs 53 mins      █████████████████░░░░░░░░   66.65 % 
-YAML                     3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-Other                    2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-Bash                     1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-Docker                   1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-
-🐱‍💻 Projects: 
-StBurger                 33 hrs 4 mins       ███████████████████████░░   92.31 % 
-Unknown Project          1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Revanced                 37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-CrossPay                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-RemotePOS                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-```
-
-
- Last Updated on 24/04/2026 17:17:21 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
