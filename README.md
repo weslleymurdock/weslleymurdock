@@ -45,53 +45,19 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ``` 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-261%20hrs%2058%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.31%20million%20lines%20of%20code-blue?style=flat)
+```txt
+From: 09 February 2026 - To: 03 May 2026
 
-**🐱 My GitHub Data** 
+Total Time: 271 hrs 1 min
 
-> 📦 181.2 kB Used in GitHub's Storage 
- > 
-> 🏆 272 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 47 Public Repositories 
- > 
-> 🔑 9 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                605 commits         █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
-🌆 Daytime                725 commits         ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
-🌃 Evening                820 commits         ███████░░░░░░░░░░░░░░░░░░   26.12 % 
-🌙 Night                  989 commits         ████████░░░░░░░░░░░░░░░░░   31.51 % 
+C#                                 159 hrs 33 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   58.87 %
+Binary                             18 hrs 51 mins        ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.96 %
+Razor                              16 hrs 11 mins        ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.98 %
+XML                                12 hrs 32 mins        ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.62 %
+Other                              10 hrs 44 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.97 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-C#                       32 hrs 25 mins      ██████████████████████░░░   86.08 % 
-XML                      1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-Binary                   55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-JSON                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-Markdown                 42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-
-🐱‍💻 Projects: 
-StBurger                 15 hrs 37 mins      ██████████░░░░░░░░░░░░░░░   41.46 % 
-Phoneless                14 hrs 11 mins      █████████░░░░░░░░░░░░░░░░   37.66 % 
-CrossPay                 7 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-RemoteCodeHub            8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-```
-
-
- Last Updated on 02/05/2026 17:10:34 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
