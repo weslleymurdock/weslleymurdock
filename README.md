@@ -45,19 +45,54 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ``` 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-291%20hrs%2016%20mins-blue?style=flat)
 
-```txt
-From: 09 February 2026 - To: 04 May 2026
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.38%20million%20lines%20of%20code-blue?style=flat)
 
-Total Time: 290 hrs 30 mins
+**🐱 My GitHub Data** 
 
-C#                                 173 hrs 10 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   59.61 %
-Binary                             18 hrs 51 mins        ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.49 %
-Razor                              16 hrs 13 mins        ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.58 %
-XML                                13 hrs 18 mins        ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.58 %
-Other                              10 hrs 46 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.71 %
+> 📦 181.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 274 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 47 Public Repositories 
+ > 
+> 🔑 9 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                605 commits         █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
+🌆 Daytime                725 commits         ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+🌃 Evening                820 commits         ███████░░░░░░░░░░░░░░░░░░   26.11 % 
+🌙 Night                  991 commits         ████████░░░░░░░░░░░░░░░░░   31.55 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+C#                       41 hrs 55 mins      ████████████████████░░░░░   81.77 % 
+PowerShell               3 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+JSON                     2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+XML                      1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Docker                   24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+
+🐱‍💻 Projects: 
+Phoneless                38 hrs 53 mins      ███████████████████░░░░░░   75.86 % 
+CrossPay                 7 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+pwsh                     3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+StBurger                 39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+RemoteCodeHub            32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+```
+
+
+ Last Updated on 04/05/2026 17:55:59 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
