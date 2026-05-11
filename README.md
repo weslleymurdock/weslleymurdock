@@ -45,19 +45,54 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ``` 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-298%20hrs%2042%20mins-blue?style=flat)
 
-```txt
-From: 09 February 2026 - To: 11 May 2026
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.39%20million%20lines%20of%20code-blue?style=flat)
 
-Total Time: 298 hrs 42 mins
+**🐱 My GitHub Data** 
 
-C#                                 176 hrs 32 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   59.10 %
-Binary                             19 hrs 48 mins        ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.63 %
-Razor                              19 hrs 2 mins         ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.37 %
-XML                                13 hrs 40 mins        ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.58 %
-Other                              10 hrs 47 mins        ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.61 %
+> 📦 181.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 277 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 47 Public Repositories 
+ > 
+> 🔑 9 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                605 commits         █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
+🌆 Daytime                725 commits         ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
+🌃 Evening                820 commits         ███████░░░░░░░░░░░░░░░░░░   26.10 % 
+🌙 Night                  992 commits         ████████░░░░░░░░░░░░░░░░░   31.57 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+C#                       3 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   41.03 % 
+Razor                    2 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   34.37 % 
+Binary                   56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+HTML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+XML                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+
+🐱‍💻 Projects: 
+MHost                    7 hrs 7 mins        ██████████████████████░░░   86.89 % 
+Phoneless                45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+MComic                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+ComicBlaze               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+StBurger                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+```
+
+
+ Last Updated on 11/05/2026 18:13:04 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
