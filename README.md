@@ -45,50 +45,19 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ``` 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.39%20million%20lines%20of%20code-blue?style=flat)
 
-**🐱 My GitHub Data** 
+```txt
+From: 02 February 2026 - To: 15 May 2026
 
-> 📦 181.2 kB Used in GitHub's Storage 
- > 
-> 🏆 318 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 47 Public Repositories 
- > 
-> 🔑 10 Private Repositories 
- > 
-**I'm a Night 🦉** 
+Total Time: 321 hrs 16 mins
 
-```text
-🌞 Morning                621 commits         █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
-🌆 Daytime                725 commits         ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
-🌃 Evening                820 commits         ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
-🌙 Night                  1012 commits        ████████░░░░░░░░░░░░░░░░░   31.84 % 
+C#                                 183 hrs 18 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   57.06 %
+Binary                             23 hrs 38 mins        ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.36 %
+Razor                              23 hrs 21 mins        ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.27 %
+YAML                               14 hrs 24 mins        ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.49 %
+XML                                14 hrs 13 mins        ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.43 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-C#                       4 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   31.44 % 
-Razor                    4 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   30.55 % 
-Binary                   2 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
-XAML                     1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-XML                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-
-🐱‍💻 Projects: 
-MComic                   13 hrs 55 mins      ████████████████████████░   97.81 % 
-Unknown Project          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-ComicBlaze               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-```
-
-
- Last Updated on 14/05/2026 18:12:36 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
