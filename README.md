@@ -45,54 +45,19 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ``` 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-451%20hrs%2055%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.22%20million%20lines%20of%20code-blue?style=flat)
+```txt
+From: 02 February 2026 - To: 28 May 2026
 
-**🐱 My GitHub Data** 
+Total Time: 441 hrs 54 mins
 
-> 📦 181.3 kB Used in GitHub's Storage 
- > 
-> 🏆 585 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 47 Public Repositories 
- > 
-> 🔑 11 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                561 commits         █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-🌆 Daytime                650 commits         █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
-🌃 Evening                889 commits         ███████░░░░░░░░░░░░░░░░░░   29.00 % 
-🌙 Night                  966 commits         ████████░░░░░░░░░░░░░░░░░   31.51 % 
+C#                                 199 hrs 45 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   45.20 %
+YAML                               79 hrs 17 mins        ⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.94 %
+Binary                             30 hrs 45 mins        ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.96 %
+XML                                30 hrs 8 mins         ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.82 %
+Razor                              23 hrs 21 mins        ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.28 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-YAML                     34 hrs 43 mins      ████████████░░░░░░░░░░░░░   49.63 % 
-C#                       10 hrs 16 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-XML                      9 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Binary                   4 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-CMake                    3 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-
-🐱‍💻 Projects: 
-libpjsua2maui            32 hrs 11 mins      ████████████░░░░░░░░░░░░░   46.00 % 
-RemotePhone              18 hrs 34 mins      ███████░░░░░░░░░░░░░░░░░░   26.54 % 
-pjsip.maccatalyst        5 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-bcg729                   5 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-libpjsua2maui-fork       4 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-```
-
-
- Last Updated on 28/05/2026 14:23:32 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
