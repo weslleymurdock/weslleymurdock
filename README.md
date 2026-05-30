@@ -45,19 +45,54 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ``` 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-466%20hrs%2013%20mins-blue?style=flat)
 
-```txt
-From: 02 February 2026 - To: 30 May 2026
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.23%20million%20lines%20of%20code-blue?style=flat)
 
-Total Time: 460 hrs 59 mins
+**🐱 My GitHub Data** 
 
-C#                                 205 hrs 48 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.64 %
-YAML                               80 hrs 25 mins        ⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.44 %
-XML                                34 hrs 20 mins        ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.45 %
-Binary                             32 hrs 33 mins        ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.06 %
-Razor                              23 hrs 21 mins        ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.07 %
+> 📦 181.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 593 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 48 Public Repositories 
+ > 
+> 🔑 11 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                562 commits         █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+🌆 Daytime                653 commits         █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
+🌃 Evening                911 commits         ███████░░░░░░░░░░░░░░░░░░   29.36 % 
+🌙 Night                  977 commits         ████████░░░░░░░░░░░░░░░░░   31.49 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+YAML                     19 hrs 37 mins      ███████░░░░░░░░░░░░░░░░░░   29.23 % 
+C#                       16 hrs 12 mins      ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
+XML                      9 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Binary                   6 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+XAML                     3 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+
+🐱‍💻 Projects: 
+libpjsua2maui            24 hrs 44 mins      █████████░░░░░░░░░░░░░░░░   36.84 % 
+RemotePhone              21 hrs 48 mins      ████████░░░░░░░░░░░░░░░░░   32.48 % 
+bcg729                   5 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+pjproject                4 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+HarvestAnne              2 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+```
+
+
+ Last Updated on 30/05/2026 17:34:14 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
