@@ -45,19 +45,54 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ``` 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-509%20hrs%2017%20mins-blue?style=flat)
 
-```txt
-From: 02 February 2026 - To: 02 June 2026
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.23%20million%20lines%20of%20code-blue?style=flat)
 
-Total Time: 509 hrs 17 mins
+**🐱 My GitHub Data** 
 
-C#                                 223 hrs 30 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.88 %
-YAML                               80 hrs 25 mins        ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.79 %
-XML                                41 hrs 1 min          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.06 %
-Binary                             33 hrs 16 mins        ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.53 %
-Razor                              29 hrs 3 mins         ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.71 %
+> 📦 181.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 596 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 48 Public Repositories 
+ > 
+> 🔑 11 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                562 commits         █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+🌆 Daytime                653 commits         █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
+🌃 Evening                911 commits         ███████░░░░░░░░░░░░░░░░░░   29.36 % 
+🌙 Night                  977 commits         ████████░░░░░░░░░░░░░░░░░   31.49 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+C#                       30 hrs 9 mins       █████████░░░░░░░░░░░░░░░░   37.73 % 
+XML                      13 hrs 9 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+C++                      8 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Razor                    5 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Binary                   4 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+
+🐱‍💻 Projects: 
+MauiGame                 27 hrs 33 mins      █████████░░░░░░░░░░░░░░░░   34.48 % 
+RemotePhone              13 hrs 46 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+M3D                      10 hrs              ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+MTiled                   6 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+pjproject                4 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+```
+
+
+ Last Updated on 02/06/2026 19:56:56 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
