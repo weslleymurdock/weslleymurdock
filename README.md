@@ -45,19 +45,54 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ``` 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-565%20hrs%2012%20mins-blue?style=flat)
 
-```txt
-From: 02 February 2026 - To: 10 June 2026
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.23%20million%20lines%20of%20code-blue?style=flat)
 
-Total Time: 562 hrs 46 mins
+**🐱 My GitHub Data** 
 
-C#                                 249 hrs 1 min         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.25 %
-YAML                               81 hrs 25 mins        ⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.47 %
-XML                                44 hrs 33 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.92 %
-Binary                             39 hrs 38 mins        ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.04 %
-Razor                              29 hrs 3 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.16 %
+> 📦 214.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 604 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 49 Public Repositories 
+ > 
+> 🔑 11 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                562 commits         █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+🌆 Daytime                653 commits         █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
+🌃 Evening                912 commits         ███████░░░░░░░░░░░░░░░░░░   29.38 % 
+🌙 Night                  977 commits         ████████░░░░░░░░░░░░░░░░░   31.48 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+C#                       24 hrs 21 mins      ████████████░░░░░░░░░░░░░   48.02 % 
+Binary                   6 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+XAML                     6 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+Markdown                 4 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+XML                      3 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+
+🐱‍💻 Projects: 
+MemoAna                  28 hrs 56 mins      ██████████████░░░░░░░░░░░   57.02 % 
+MauiGame                 16 hrs 52 mins      ████████░░░░░░░░░░░░░░░░░   33.25 % 
+Unknown Project          3 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+DevTools                 38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+qwen3                    32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+```
+
+
+ Last Updated on 10/06/2026 18:46:29 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
