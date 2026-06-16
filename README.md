@@ -45,19 +45,54 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ``` 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-596%20hrs%207%20mins-blue?style=flat)
 
-```txt
-From: 02 February 2026 - To: 15 June 2026
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.04%20million%20lines%20of%20code-blue?style=flat)
 
-Total Time: 578 hrs 53 mins
+**🐱 My GitHub Data** 
 
-C#                                 258 hrs 37 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.67 %
-YAML                               82 hrs 2 mins         ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.17 %
-XML                                46 hrs 16 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.99 %
-Binary                             40 hrs 58 mins        ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.08 %
-Razor                              30 hrs 27 mins        ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.26 %
+> 📦 274.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 632 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 49 Public Repositories 
+ > 
+> 🔑 13 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                581 commits         █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+🌆 Daytime                675 commits         █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
+🌃 Evening                925 commits         ███████░░░░░░░░░░░░░░░░░░   29.14 % 
+🌙 Night                  993 commits         ████████░░░░░░░░░░░░░░░░░   31.29 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+C#                       18 hrs 18 mins      ████████████░░░░░░░░░░░░░   49.02 % 
+Razor                    7 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
+Binary                   3 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+XML                      1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+YAML                     1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+
+🐱‍💻 Projects: 
+MemoAna                  20 hrs 6 mins       █████████████░░░░░░░░░░░░   53.82 % 
+weslleymurdock.github.io 11 hrs 33 mins      ████████░░░░░░░░░░░░░░░░░   30.96 % 
+MRec                     3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+AnneLand                 1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+RacingGame               28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+```
+
+
+ Last Updated on 16/06/2026 19:53:57 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
