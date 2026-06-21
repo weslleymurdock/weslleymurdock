@@ -45,19 +45,54 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ``` 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-607%20hrs%2027%20mins-blue?style=flat)
 
-```txt
-From: 02 February 2026 - To: 21 June 2026
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.03%20million%20lines%20of%20code-blue?style=flat)
 
-Total Time: 607 hrs 27 mins
+**🐱 My GitHub Data** 
 
-C#                                 264 hrs 49 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.60 %
-YAML                               83 hrs 24 mins        ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.73 %
-XML                                47 hrs 5 mins         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.75 %
-Razor                              45 hrs 27 mins        ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.48 %
-Binary                             42 hrs 18 mins        ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.97 %
+> 📦 282.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 638 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 50 Public Repositories 
+ > 
+> 🔑 13 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                582 commits         █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+🌆 Daytime                675 commits         █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
+🌃 Evening                927 commits         ███████░░░░░░░░░░░░░░░░░░   29.21 % 
+🌙 Night                  990 commits         ████████░░░░░░░░░░░░░░░░░   31.19 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+Razor                    14 hrs 59 mins      █████████████░░░░░░░░░░░░   52.21 % 
+C#                       6 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+CSS                      1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+YAML                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+Binary                   1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+
+🐱‍💻 Projects: 
+weslleymurdock.github.io 23 hrs 1 min        ████████████████████░░░░░   80.14 % 
+WGPUMaui                 3 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+AnneLand                 1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+WGPUSharp                23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+pjproject                22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+```
+
+
+ Last Updated on 21/06/2026 17:56:55 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
