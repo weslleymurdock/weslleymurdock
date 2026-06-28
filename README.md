@@ -45,19 +45,52 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ``` 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-612%20hrs%2043%20mins-blue?style=flat)
 
-```txt
-From: 02 February 2026 - To: 28 June 2026
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.03%20million%20lines%20of%20code-blue?style=flat)
 
-Total Time: 612 hrs 43 mins
+**🐱 My GitHub Data** 
 
-C#                                 265 hrs 22 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.31 %
-YAML                               83 hrs 24 mins        ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.61 %
-Razor                              49 hrs                ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.00 %
-XML                                47 hrs 6 mins         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.69 %
-Binary                             43 hrs 9 mins         ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.04 %
+> 📦 282.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 643 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 50 Public Repositories 
+ > 
+> 🔑 13 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                582 commits         █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+🌆 Daytime                675 commits         █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
+🌃 Evening                927 commits         ███████░░░░░░░░░░░░░░░░░░   29.20 % 
+🌙 Night                  991 commits         ████████░░░░░░░░░░░░░░░░░   31.21 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+Razor                    3 hrs 32 mins       █████████████████░░░░░░░░   67.50 % 
+Binary                   50 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+C#                       32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+HTML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+
+🐱‍💻 Projects: 
+WGPUMaui                 3 hrs 39 mins       █████████████████░░░░░░░░   69.62 % 
+MauiGame                 1 hr 35 mins        ████████░░░░░░░░░░░░░░░░░   30.21 % 
+WGPUSharp                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+```
+
+
+ Last Updated on 28/06/2026 17:39:04 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
