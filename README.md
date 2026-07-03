@@ -45,19 +45,52 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ``` 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-618%20hrs%206%20mins-blue?style=flat)
 
-```txt
-From: 02 February 2026 - To: 02 July 2026
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.11%20million%20lines%20of%20code-blue?style=flat)
 
-Total Time: 614 hrs 32 mins
+**🐱 My GitHub Data** 
 
-C#                                 266 hrs 13 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.32 %
-YAML                               83 hrs 24 mins        ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.57 %
-Razor                              49 hrs                ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.97 %
-XML                                47 hrs 20 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.70 %
-Binary                             43 hrs 9 mins         ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.02 %
+> 📦 282.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 650 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 51 Public Repositories 
+ > 
+> 🔑 13 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                582 commits         █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+🌆 Daytime                679 commits         █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
+🌃 Evening                927 commits         ███████░░░░░░░░░░░░░░░░░░   29.11 % 
+🌙 Night                  997 commits         ████████░░░░░░░░░░░░░░░░░   31.30 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+C#                       2 hrs 27 mins       ███████████░░░░░░░░░░░░░░   45.71 % 
+XAML                     1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+Other                    57 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
+XML                      40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+
+🐱‍💻 Projects: 
+MauiGame                 3 hrs 2 mins        ██████████████░░░░░░░░░░░   56.57 % 
+WordsWithAnne            1 hr 49 mins        ████████░░░░░░░░░░░░░░░░░   33.85 % 
+Unknown Project          30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+```
+
+
+ Last Updated on 03/07/2026 17:52:47 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
