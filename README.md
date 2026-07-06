@@ -47,7 +47,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 February 2026 - To: 05 July 2026
+From: 02 February 2026 - To: 06 July 2026
 
 Total Time: 622 hrs 46 mins
 
