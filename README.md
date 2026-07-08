@@ -45,54 +45,19 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ``` 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-622%20hrs%2046%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.10%20million%20lines%20of%20code-blue?style=flat)
+```txt
+From: 02 February 2026 - To: 08 July 2026
 
-**🐱 My GitHub Data** 
+Total Time: 622 hrs 46 mins
 
-> 📦 282.7 kB Used in GitHub's Storage 
- > 
-> 🏆 652 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 51 Public Repositories 
- > 
-> 🔑 13 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                582 commits         █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-🌆 Daytime                679 commits         █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
-🌃 Evening                927 commits         ███████░░░░░░░░░░░░░░░░░░   29.11 % 
-🌙 Night                  996 commits         ████████░░░░░░░░░░░░░░░░░   31.28 % 
+C#                                 270 hrs 14 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.39 %
+YAML                               83 hrs 38 mins        ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.43 %
+Razor                              49 hrs                ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.87 %
+XML                                48 hrs 10 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.74 %
+Binary                             43 hrs 9 mins         ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.93 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-C#                       4 hrs 52 mins       ████████████░░░░░░░░░░░░░   48.45 % 
-Other                    2 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
-XAML                     1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-XML                      1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-
-🐱‍💻 Projects: 
-MauiGame                 3 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   30.32 % 
-orbit3d                  2 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   27.99 % 
-Unknown Project          2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
-WordsWithAnne            1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-mac                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-```
-
-
- Last Updated on 07/07/2026 18:25:23 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
