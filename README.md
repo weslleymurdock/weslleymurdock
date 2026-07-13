@@ -45,46 +45,19 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ``` 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-622%20hrs%2046%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.09%20million%20lines%20of%20code-blue?style=flat)
+```txt
+From: 02 February 2026 - To: 13 July 2026
 
-**🐱 My GitHub Data** 
+Total Time: 625 hrs 10 mins
 
-> 📦 282.7 kB Used in GitHub's Storage 
- > 
-> 🏆 656 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 51 Public Repositories 
- > 
-> 🔑 13 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                582 commits         █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-🌆 Daytime                679 commits         █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
-🌃 Evening                927 commits         ███████░░░░░░░░░░░░░░░░░░   29.15 % 
-🌙 Night                  992 commits         ████████░░░░░░░░░░░░░░░░░   31.19 % 
+C#                                 271 hrs 59 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.51 %
+YAML                               83 hrs 38 mins        ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.38 %
+Razor                              49 hrs                ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.84 %
+XML                                48 hrs 35 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.77 %
+Binary                             43 hrs 9 mins         ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.90 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 12/07/2026 17:29:28 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
