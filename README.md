@@ -45,19 +45,54 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ``` 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-629%20hrs%2043%20mins-blue?style=flat)
 
-```txt
-From: 02 February 2026 - To: 14 July 2026
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.12%20million%20lines%20of%20code-blue?style=flat)
 
-Total Time: 629 hrs 43 mins
+**🐱 My GitHub Data** 
 
-C#                                 275 hrs 7 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.69 %
-YAML                               83 hrs 38 mins        ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.28 %
-Razor                              49 hrs 8 mins         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.80 %
-XML                                48 hrs 54 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.77 %
-Binary                             43 hrs 19 mins        ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.88 %
+> 📦 282.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 663 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 54 Public Repositories 
+ > 
+> 🔑 13 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                582 commits         █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+🌆 Daytime                684 commits         █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
+🌃 Evening                931 commits         ███████░░░░░░░░░░░░░░░░░░   29.15 % 
+🌙 Night                  997 commits         ████████░░░░░░░░░░░░░░░░░   31.21 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+C#                       10 hrs 28 mins      ████████████████░░░░░░░░░   65.00 % 
+XML                      1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+Binary                   1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+Razor                    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+Other                    46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+
+🐱‍💻 Projects: 
+HackWay                  6 hrs 47 mins       ███████████░░░░░░░░░░░░░░   42.16 % 
+CGE                      5 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   33.28 % 
+hackerslife              2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+SharpCLIParser           33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+weslleymurdock.github.io 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+```
+
+
+ Last Updated on 15/07/2026 17:43:14 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
