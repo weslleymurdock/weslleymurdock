@@ -21,7 +21,7 @@
 [![wakatime](https://wakatime.com/badge/user/9def8702-3d6c-43f9-8338-45466b0dee1c.svg)](https://wakatime.com/@9def8702-3d6c-43f9-8338-45466b0dee1c)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/weslleymurdock/weslleymurdock.github.io/pull/10) in [weslleymurdock/weslleymurdock.github.io](https://github.com/weslleymurdock/weslleymurdock.github.io)
+1. 🎉 Merged PR [#2](https://github.com/weslleymurdock/CGE/pull/2) in [weslleymurdock/CGE](https://github.com/weslleymurdock/CGE)
 <!--END_SECTION:activity-->
 
 ```yaml
