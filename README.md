@@ -21,7 +21,7 @@
 [![wakatime](https://wakatime.com/badge/user/9def8702-3d6c-43f9-8338-45466b0dee1c.svg)](https://wakatime.com/@9def8702-3d6c-43f9-8338-45466b0dee1c)
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#84](https://github.com/remotecodehub/libpjsua2maui/issues/84) in [remotecodehub/libpjsua2maui](https://github.com/remotecodehub/libpjsua2maui)
+1. ℹ️ Labeled PR [#99](https://github.com/remotecodehub/libpjsua2maui/pull/99) in [remotecodehub/libpjsua2maui](https://github.com/remotecodehub/libpjsua2maui)
 <!--END_SECTION:activity-->
 
 ```yaml
