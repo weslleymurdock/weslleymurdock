@@ -45,54 +45,19 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ``` 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-657%20hrs%203%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.54%20million%20lines%20of%20code-blue?style=flat)
+```txt
+From: 02 February 2026 - To: 21 July 2026
 
-**🐱 My GitHub Data** 
+Total Time: 660 hrs 43 mins
 
-> 📦 282.8 kB Used in GitHub's Storage 
- > 
-> 🏆 736 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 56 Public Repositories 
- > 
-> 🔑 13 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                900 commits         █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
-🌆 Daytime                1079 commits        ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
-🌃 Evening                1352 commits        ███████░░░░░░░░░░░░░░░░░░   28.84 % 
-🌙 Night                  1357 commits        ███████░░░░░░░░░░░░░░░░░░   28.95 % 
+C#                                 292 hrs 59 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.34 %
+YAML                               90 hrs 18 mins        ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.67 %
+XML                                50 hrs 58 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.71 %
+Razor                              49 hrs 53 mins        ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.55 %
+Binary                             44 hrs 45 mins        ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.77 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-C#                       17 hrs 50 mins      ██████████████░░░░░░░░░░░   57.52 % 
-YAML                     6 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
-XML                      2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-Binary                   1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-Markdown                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-
-🐱‍💻 Projects: 
-CGE                      14 hrs 15 mins      ████████████░░░░░░░░░░░░░   46.00 % 
-libpjsua2maui            7 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
-HackWay                  2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-CoderByteChallenges      2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-RemotePhone              1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-```
-
-
- Last Updated on 21/07/2026 17:50:52 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
