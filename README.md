@@ -45,54 +45,19 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ``` 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-664%20hrs%2012%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.76%20million%20lines%20of%20code-blue?style=flat)
+```txt
+From: 02 February 2026 - To: 25 July 2026
 
-**🐱 My GitHub Data** 
+Total Time: 664 hrs 12 mins
 
-> 📦 282.8 kB Used in GitHub's Storage 
- > 
-> 🏆 745 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 56 Public Repositories 
- > 
-> 🔑 13 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1049 commits        █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-🌆 Daytime                1275 commits        ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
-🌃 Evening                1558 commits        ███████░░░░░░░░░░░░░░░░░░   28.75 % 
-🌙 Night                  1538 commits        ███████░░░░░░░░░░░░░░░░░░   28.38 % 
+C#                                 294 hrs 13 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.30 %
+YAML                               91 hrs 8 mins         ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.72 %
+XML                                51 hrs 18 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.72 %
+Razor                              49 hrs 55 mins        ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.52 %
+Binary                             45 hrs 39 mins        ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.88 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-YAML                     7 hrs 13 mins       █████████████░░░░░░░░░░░░   52.97 % 
-C#                       2 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
-XML                      1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-Binary                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-
-🐱‍💻 Projects: 
-libpjsua2maui            9 hrs 4 mins        █████████████████░░░░░░░░   66.44 % 
-RemotePhone              2 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
-pjproject                1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-DotNetSwigTool           31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-UNO.Pjsua2               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-```
-
-
- Last Updated on 25/07/2026 17:20:58 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
