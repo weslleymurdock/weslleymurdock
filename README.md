@@ -45,19 +45,61 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ``` 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-643%20hrs%2012%20mins-blue?style=flat)
 
-```txt
-From: 02 February 2026 - To: 27 July 2026
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2015%20mins-blue?style=flat)
 
-Total Time: 664 hrs 12 mins
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.76%20million%20lines%20of%20code-blue?style=flat)
 
-C#                                 294 hrs 13 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.30 %
-YAML                               91 hrs 8 mins         ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.72 %
-XML                                51 hrs 18 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.72 %
-Razor                              49 hrs 55 mins        ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.52 %
-Binary                             45 hrs 39 mins        ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.88 %
+**🐱 My GitHub Data** 
+
+> 📦 282.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 747 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 57 Public Repositories 
+ > 
+> 🔑 13 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1049 commits        █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+🌆 Daytime                1275 commits        ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
+🌃 Evening                1558 commits        ███████░░░░░░░░░░░░░░░░░░   28.74 % 
+🌙 Night                  1539 commits        ███████░░░░░░░░░░░░░░░░░░   28.39 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+YAML                     3 hrs 12 mins       ████████████░░░░░░░░░░░░░   49.04 % 
+C#                       1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+XML                      52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Binary                   42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+
+🐱‍💻 Projects: 
+libpjsua2maui            4 hrs 43 mins       ██████████████████░░░░░░░   72.40 % 
+RemotePhone              1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+pjproject                29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+pjsua2maui               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
+ Last Updated on 27/07/2026 18:00:18 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
