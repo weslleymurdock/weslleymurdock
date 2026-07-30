@@ -45,60 +45,19 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ``` 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-648%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2015%20mins-blue?style=flat)
+```txt
+From: 02 February 2026 - To: 29 July 2026
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.76%20million%20lines%20of%20code-blue?style=flat)
+Total Time: 669 hrs 28 mins
 
-**🐱 My GitHub Data** 
-
-> 📦 282.8 kB Used in GitHub's Storage 
- > 
-> 🏆 751 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 58 Public Repositories 
- > 
-> 🔑 13 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1049 commits        █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
-🌆 Daytime                1277 commits        ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
-🌃 Evening                1558 commits        ███████░░░░░░░░░░░░░░░░░░   28.72 % 
-🌙 Night                  1540 commits        ███████░░░░░░░░░░░░░░░░░░   28.39 % 
+C#                                 296 hrs 23 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.27 %
+YAML                               91 hrs 33 mins        ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.68 %
+XML                                51 hrs 29 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.69 %
+Razor                              49 hrs 55 mins        ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.46 %
+Binary                             45 hrs 39 mins        ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.82 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-C#                       2 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   41.20 % 
-C++                      1 hr 31 mins        ███████░░░░░░░░░░░░░░░░░░   28.86 % 
-YAML                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-XML                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-
-🐱‍💻 Projects: 
-LiteStore                4 hrs 45 mins       ██████████████████████░░░   89.65 % 
-pjproject                31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-
- Last Updated on 29/07/2026 17:44:02 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
