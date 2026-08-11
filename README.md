@@ -21,7 +21,7 @@
 [![wakatime](https://wakatime.com/badge/user/9def8702-3d6c-43f9-8338-45466b0dee1c.svg)](https://wakatime.com/@9def8702-3d6c-43f9-8338-45466b0dee1c)
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#1](https://github.com/weslleymurdock/Engin3D/issues/1) in [weslleymurdock/Engin3D](https://github.com/weslleymurdock/Engin3D)
+1. 🎉 Merged PR [#104](https://github.com/remotecodehub/libpjsua2maui/pull/104) in [remotecodehub/libpjsua2maui](https://github.com/remotecodehub/libpjsua2maui)
 <!--END_SECTION:activity-->
 
 ```yaml
