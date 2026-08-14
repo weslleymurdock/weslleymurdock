@@ -21,7 +21,7 @@
 [![wakatime](https://wakatime.com/badge/user/9def8702-3d6c-43f9-8338-45466b0dee1c.svg)](https://wakatime.com/@9def8702-3d6c-43f9-8338-45466b0dee1c)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/weslleymurdock/RemoteCommerce/pull/3) in [weslleymurdock/RemoteCommerce](https://github.com/weslleymurdock/RemoteCommerce)
+1. 💪 Opened PR [#11](https://github.com/weslleymurdock/RemoteCommerce/pull/11) in [weslleymurdock/RemoteCommerce](https://github.com/weslleymurdock/RemoteCommerce)
 <!--END_SECTION:activity-->
 
 ```yaml
