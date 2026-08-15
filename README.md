@@ -21,7 +21,7 @@
 [![wakatime](https://wakatime.com/badge/user/9def8702-3d6c-43f9-8338-45466b0dee1c.svg)](https://wakatime.com/@9def8702-3d6c-43f9-8338-45466b0dee1c)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/weslleymurdock/RemoteCommerce/pull/11) in [weslleymurdock/RemoteCommerce](https://github.com/weslleymurdock/RemoteCommerce)
+1. ℹ️ Labeled PR [#26](https://github.com/remotecodehub/Ayllu/pull/26) in [remotecodehub/Ayllu](https://github.com/remotecodehub/Ayllu)
 <!--END_SECTION:activity-->
 
 ```yaml
