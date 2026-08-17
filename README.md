@@ -21,7 +21,7 @@
 [![wakatime](https://wakatime.com/badge/user/9def8702-3d6c-43f9-8338-45466b0dee1c.svg)](https://wakatime.com/@9def8702-3d6c-43f9-8338-45466b0dee1c)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/remotecodehub/SPInvisivel/pull/1) in [remotecodehub/SPInvisivel](https://github.com/remotecodehub/SPInvisivel)
+1. 🗣 Commented on [#1](https://github.com/remotecodehub/RemoteTickets/pull/1#issuecomment-5310486775) in [remotecodehub/RemoteTickets](https://github.com/remotecodehub/RemoteTickets)
 <!--END_SECTION:activity-->
 
 ```yaml
