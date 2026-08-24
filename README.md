@@ -45,62 +45,19 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ``` 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-842%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2033%20mins-blue?style=flat)
+```txt
+From: 02 February 2026 - To: 24 August 2026
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.21%20million%20lines%20of%20code-blue?style=flat)
+Total Time: 892 hrs 24 mins
 
-**🐱 My GitHub Data** 
-
-> 📦 288.6 kB Used in GitHub's Storage 
- > 
-> 🏆 1,925 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 65 Public Repositories 
- > 
-> 🔑 14 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1322 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-🌆 Daytime                2049 commits        ███████░░░░░░░░░░░░░░░░░░   27.01 % 
-🌃 Evening                2295 commits        ████████░░░░░░░░░░░░░░░░░   30.26 % 
-🌙 Night                  1919 commits        ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
+C#                                 387 hrs 51 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.46 %
+YAML                               108 hrs 33 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.16 %
+Razor                              82 hrs 12 mins        ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.21 %
+XML                                75 hrs 21 mins        ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.44 %
+Binary                             57 hrs 50 mins        ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.48 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-C#                       38 hrs 2 mins       ██████████████░░░░░░░░░░░   55.77 % 
-Markdown                 5 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-XML                      5 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-YAML                     5 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-Razor                    3 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-
-🐱‍💻 Projects: 
-MemoAna                  25 hrs 57 mins      ██████████░░░░░░░░░░░░░░░   38.05 % 
-Ampere                   19 hrs 9 mins       ███████░░░░░░░░░░░░░░░░░░   28.09 % 
-RemoteTickets            10 hrs 12 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-SPInvisivel              4 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-ComputerScience          2 hrs 55 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-
- Last Updated on 23/08/2026 16:49:32 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
