@@ -21,7 +21,7 @@
 [![wakatime](https://wakatime.com/badge/user/9def8702-3d6c-43f9-8338-45466b0dee1c.svg)](https://wakatime.com/@9def8702-3d6c-43f9-8338-45466b0dee1c)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/weslleymurdock/pjproject/pull/3) in [weslleymurdock/pjproject](https://github.com/weslleymurdock/pjproject)
+1. ℹ️ Labeled issue [#9](https://github.com/weslleymurdock/SharpLocalizr/issues/9) in [weslleymurdock/SharpLocalizr](https://github.com/weslleymurdock/SharpLocalizr)
 <!--END_SECTION:activity-->
 
 ```yaml
