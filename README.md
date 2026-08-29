@@ -21,7 +21,7 @@
 [![wakatime](https://wakatime.com/badge/user/9def8702-3d6c-43f9-8338-45466b0dee1c.svg)](https://wakatime.com/@9def8702-3d6c-43f9-8338-45466b0dee1c)
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#22](https://github.com/weslleymurdock/SharpLocalizr/pull/22) in [weslleymurdock/SharpLocalizr](https://github.com/weslleymurdock/SharpLocalizr)
+1. 🎉 Merged PR [#1](https://github.com/weslleymurdock/MemoAna/pull/1) in [weslleymurdock/MemoAna](https://github.com/weslleymurdock/MemoAna)
 <!--END_SECTION:activity-->
 
 ```yaml
