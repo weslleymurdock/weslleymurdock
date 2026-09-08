@@ -21,7 +21,7 @@
 [![wakatime](https://wakatime.com/badge/user/9def8702-3d6c-43f9-8338-45466b0dee1c.svg)](https://wakatime.com/@9def8702-3d6c-43f9-8338-45466b0dee1c)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4999](https://github.com/pjsip/pjproject/pull/4999#issuecomment-5529007620) in [pjsip/pjproject](https://github.com/pjsip/pjproject)
+1. 🎉 Merged PR [#3](https://github.com/weslleymurdock/MemoAna/pull/3) in [weslleymurdock/MemoAna](https://github.com/weslleymurdock/MemoAna)
 <!--END_SECTION:activity-->
 
 ```yaml
