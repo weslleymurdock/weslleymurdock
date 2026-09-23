@@ -21,7 +21,7 @@
 [![wakatime](https://wakatime.com/badge/user/9def8702-3d6c-43f9-8338-45466b0dee1c.svg)](https://wakatime.com/@9def8702-3d6c-43f9-8338-45466b0dee1c)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/thememoanagame/themes/pull/1) in [thememoanagame/themes](https://github.com/thememoanagame/themes)
+1. ❗ Opened issue [#54](https://github.com/weslleymurdock/NBehavior/issues/54) in [weslleymurdock/NBehavior](https://github.com/weslleymurdock/NBehavior)
 <!--END_SECTION:activity-->
 
 ```yaml
