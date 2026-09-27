@@ -21,7 +21,7 @@
 [![wakatime](https://wakatime.com/badge/user/9def8702-3d6c-43f9-8338-45466b0dee1c.svg)](https://wakatime.com/@9def8702-3d6c-43f9-8338-45466b0dee1c)
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#54](https://github.com/weslleymurdock/NBehavior/issues/54) in [weslleymurdock/NBehavior](https://github.com/weslleymurdock/NBehavior)
+1. 💪 Opened PR [#5](https://github.com/weslleymurdock/GFlow/pull/5) in [weslleymurdock/GFlow](https://github.com/weslleymurdock/GFlow)
 <!--END_SECTION:activity-->
 
 ```yaml
