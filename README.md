@@ -21,7 +21,7 @@
 [![wakatime](https://wakatime.com/badge/user/9def8702-3d6c-43f9-8338-45466b0dee1c.svg)](https://wakatime.com/@9def8702-3d6c-43f9-8338-45466b0dee1c)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/weslleymurdock/GFlow/pull/5) in [weslleymurdock/GFlow](https://github.com/weslleymurdock/GFlow)
+1. 🎉 Merged PR [#7](https://github.com/weslleymurdock/Assimp.MAUI/pull/7) in [weslleymurdock/Assimp.MAUI](https://github.com/weslleymurdock/Assimp.MAUI)
 <!--END_SECTION:activity-->
 
 ```yaml
