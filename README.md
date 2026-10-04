@@ -21,7 +21,7 @@
 [![wakatime](https://wakatime.com/badge/user/9def8702-3d6c-43f9-8338-45466b0dee1c.svg)](https://wakatime.com/@9def8702-3d6c-43f9-8338-45466b0dee1c)
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#1](https://github.com/ComicBookJson/cbj/pull/1) in [ComicBookJson/cbj](https://github.com/ComicBookJson/cbj)
+1. 💪 Opened PR [#1](https://github.com/ComicBookJson/CbjStudio/pull/1) in [ComicBookJson/CbjStudio](https://github.com/ComicBookJson/CbjStudio)
 <!--END_SECTION:activity-->
 
 ```yaml
