@@ -45,19 +45,80 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ``` 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C156%20hrs%2017%20mins-blue?style=flat)
 
-```txt
-From: 02 February 2026 - To: 04 October 2026
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%2038%20mins-blue?style=flat)
 
-Total Time: 1,195 hrs 52 mins
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.54%20million%20lines%20of%20code-blue?style=flat)
 
-C#                                 518 hrs 16 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.34 %
-YAML                               134 hrs 53 mins       ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.28 %
-Razor                              112 hrs 55 mins       ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.44 %
-XML                                101 hrs 52 mins       ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.52 %
-Binary                             64 hrs 24 mins        ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.39 %
+**🐱 My GitHub Data** 
+
+> 📦 302.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 3,299 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 76 Public Repositories 
+ > 
+> 🔑 14 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3943 commits        ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
+🌆 Daytime                5943 commits        █████████░░░░░░░░░░░░░░░░   36.01 % 
+🌃 Evening                3472 commits        █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
+🌙 Night                  3145 commits        █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+C#                       26 hrs 28 mins      ███████████░░░░░░░░░░░░░░   45.53 % 
+XML                      5 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+Razor                    5 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+YAML                     5 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+C++                      3 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+
+🐱‍💻 Projects: 
+orbit3d                  16 hrs 53 mins      ███████░░░░░░░░░░░░░░░░░░   29.05 % 
+Assimp.MAUI              10 hrs 29 mins      █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
+cbj                      6 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+DataStructure            6 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+GFlow                    5 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 9 hrs 8 mins (15.71%)
+
+✍️ 6,158 lines written by AI, 18,127 lines written by hand (25.36% AI-written)
+
+🔤 11,419,195 Input Tokens, 361,349 Output Tokens
+
+💵 $105.73 Estimated AI Cost This Week
+
+🧠 25 AI Sessions, 124 AI Prompts
+
+Github-Copilot           4,992 lines         ███████████████████████░░   91.09 % 
+GPT                      319 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+Code                     169 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 25.36% of written lines came from AI
+📚 Verbose Prompter — average 6,563 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 79.23% of changed lines were hand-edited
+```
+
+
+ Last Updated on 04/10/2026 19:46:57 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
