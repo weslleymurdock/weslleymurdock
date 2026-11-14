@@ -21,7 +21,7 @@
 [![wakatime](https://wakatime.com/badge/user/9def8702-3d6c-43f9-8338-45466b0dee1c.svg)](https://wakatime.com/@9def8702-3d6c-43f9-8338-45466b0dee1c)
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5](https://github.com/weslleymurdock/Three.cs/issues/5) in [weslleymurdock/Three.cs](https://github.com/weslleymurdock/Three.cs)
+1. 💪 Opened PR [#1609](https://github.com/smartstore/Smartstore/pull/1609) in [smartstore/Smartstore](https://github.com/smartstore/Smartstore)
 <!--END_SECTION:activity-->
 
 ```yaml
