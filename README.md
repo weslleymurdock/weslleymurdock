@@ -21,7 +21,7 @@
 [![wakatime](https://wakatime.com/badge/user/9def8702-3d6c-43f9-8338-45466b0dee1c.svg)](https://wakatime.com/@9def8702-3d6c-43f9-8338-45466b0dee1c)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1609](https://github.com/smartstore/Smartstore/pull/1609) in [smartstore/Smartstore](https://github.com/smartstore/Smartstore)
+1. 🎉 Merged PR [#1](https://github.com/weslleymurdock/Smartstore/pull/1) in [weslleymurdock/Smartstore](https://github.com/weslleymurdock/Smartstore)
 <!--END_SECTION:activity-->
 
 ```yaml
