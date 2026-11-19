@@ -21,7 +21,7 @@
 [![wakatime](https://wakatime.com/badge/user/9def8702-3d6c-43f9-8338-45466b0dee1c.svg)](https://wakatime.com/@9def8702-3d6c-43f9-8338-45466b0dee1c)
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#11](https://github.com/weslleymurdock/Assimp.MAUI/pull/11) in [weslleymurdock/Assimp.MAUI](https://github.com/weslleymurdock/Assimp.MAUI)
+1. 🎉 Merged PR [#12](https://github.com/weslleymurdock/Assimp.MAUI/pull/12) in [weslleymurdock/Assimp.MAUI](https://github.com/weslleymurdock/Assimp.MAUI)
 <!--END_SECTION:activity-->
 
 ```yaml
